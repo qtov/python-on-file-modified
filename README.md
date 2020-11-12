@@ -1,5 +1,5 @@
 # python-on-file-edit
-Just helping somebody in my free time, yay!
+A simple watcher.
 
 What the script does:
 Whenever it reads a keyword it keeps the time and outputs sh\*t, nothing more.
